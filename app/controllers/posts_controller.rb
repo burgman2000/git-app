@@ -1,4 +1,11 @@
+clss PostController < ApplicationController
+  def index
+  end
 
+<<<<<<< Updated upstream
+end
+=======
 <button>
-  <a href="#">ボタン</a>
+<%= link_to 'ボタン', '#' %>
 </button>
+>>>>>>> Stashed changes
