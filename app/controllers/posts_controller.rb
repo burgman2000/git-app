@@ -1,4 +1,5 @@
+clss PostController < ApplicationController
+  def index
+  end
 
-<button>
-  <a href="#">ボタン</a>
-</button>
+end
