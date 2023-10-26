@@ -1,5 +1,4 @@
 
-class PostsController < ApplicationController
-  def index
-  end
- end
+<button>
+  <a href="#">ボタン</a>
+</button>
