@@ -1,11 +1,4 @@
-clss PostController < ApplicationController
+class PostsController < ApplicationController
   def index
   end
-
-<<<<<<< Updated upstream
-end
-=======
-<button>
-<%= link_to 'ボタン', '#' %>
-</button>
->>>>>>> Stashed changes
+ end
